@@ -2,7 +2,7 @@
 Real time multiplayer pong game
 
 #### To play Pong
-- Fork and clone this repository
+- Clone this repository
 - Ensure Node.js is installed
 - Navigate to root directory in terminal and run ```npm install```
 - Run ```npm start```
