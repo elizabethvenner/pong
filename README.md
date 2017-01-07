@@ -1,5 +1,5 @@
 # Pong
-Real time multiplayer pong game
+Real-time multiplayer pong game
 
 #### To play Pong
 - Clone this repository
@@ -10,4 +10,4 @@ Real time multiplayer pong game
 - You can access the game locally at [http://localhost:3000](http://localhost:3000)
 - Play Pong!
 #### Authors
-Elizabeth Venner, [Laura Weston](https://github.com/lauraweston), [Lilian Breidenbach](https://github.com/lilian2112), [Caitlin Gulliford](https://github.com/cgul
+Elizabeth Venner, [Laura Weston](https://github.com/lauraweston), [Lilian Breidenbach](https://github.com/lilian2112), [Caitlin Gulliford](https://github.com/cgul)
