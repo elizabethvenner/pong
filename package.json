@@ -4,7 +4,9 @@
   "description": "Real time multiplayer pong game",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --config webpack.config.js",
+    "build": "webpack",
+    "build:watch": "webpack --watch",
+    "start": "node server",
     "test": "jasmine"
   },
   "repository": {

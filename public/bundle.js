@@ -67,8 +67,6 @@
 	var wallSound = new Audio("sounds/plop.ogg");
 	var paddleSound = new Audio("sounds/plop.ogg");
 	var gameOverSound = new Audio("sounds/game-over.wav");
-
-
 	var view;
 
 	(function init(){
