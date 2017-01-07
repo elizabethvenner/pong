@@ -1,5 +1,5 @@
 # Pong
-Real-time multiplayer pong game
+Real-time multiplayer pong game - a version of the classic arcade game for desktop
 
 #### To play Pong
 - Clone this repository
